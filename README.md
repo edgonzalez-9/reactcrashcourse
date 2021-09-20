@@ -2,6 +2,4 @@
 
 Mock project to refresh knowledge on react. 
 
-Goal is to refresh knowledge on react and do a fully fleshed out project that will be added to my resume.
-
-Updating README to continue green streak on github
+Man I really need to make time to code more.
